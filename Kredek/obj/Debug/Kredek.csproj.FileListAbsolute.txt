@@ -1,0 +1,15 @@
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\bin\Debug\Kredek.exe.config
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\bin\Debug\Kredek.exe
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\bin\Debug\Kredek.pdb
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\bin\Debug\EntityFramework.dll
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\bin\Debug\EntityFramework.xml
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\obj\Debug\Kredek.csprojAssemblyReference.cache
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\obj\Debug\Kredek.FormMain.resources
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\obj\Debug\Kredek.Properties.Resources.resources
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\obj\Debug\Kredek.csproj.GenerateResource.cache
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\obj\Debug\Kredek.csproj.CoreCompileInputs.cache
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\obj\Debug\Kredek.csproj.CopyComplete
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\obj\Debug\Kredek.exe
+C:\Users\toome\Desktop\programming\DotnetProjects\Kredek\Kredek\obj\Debug\Kredek.pdb
